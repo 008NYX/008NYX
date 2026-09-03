@@ -3,8 +3,11 @@
   <img src="./banner.jpg" width="100%" /> <!-- Substitua pelo link de uma imagem pixel art da sua escolha -->
 </div>
 
+# Olá 👋, prazer NYX
+
 <div align="center">
-  <img src="./prazerdiv.png" />
+  <i>Full-Stack Developer</i>
+  <p><b>Construindo o caos estruturado.</b></p>
 </div>
 
 ---
