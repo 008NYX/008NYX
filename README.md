@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Pixel Art no topo -->
-  <img src="https://uiverse.io/assets/banner.png" width="100%" /> <!-- Substitua pelo link de uma imagem pixel art da sua escolha -->
+  <img src="[https://uiverse.io/assets/banner.png](https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg)" width="100%" /> <!-- Substitua pelo link de uma imagem pixel art da sua escolha -->
 </div>
 
 # Hi 👋, Imma [Seu Nome]
