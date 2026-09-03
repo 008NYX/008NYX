@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre mim
 
 - 💻 **Quem sou:** Desenvolvedor focado em criar sistemas robustos, rápidos e escaláveis do zero ao deploy.
 - ⚡ **O que eu curto:** Resolver problemas difíceis, otimização de código e arquiteturas limpas.
@@ -22,7 +22,7 @@
 ### 🤝 Connect
 
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/008NYX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
