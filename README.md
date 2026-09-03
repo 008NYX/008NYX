@@ -6,8 +6,7 @@
 # Olá 👋, prazer NYX
 
 <div align="center">
-  <i>Full-Stack Developer</i>
-  <p><b>Construindo o caos estruturado.</b></p>
+  <img src="./prazerdiv.jpg" />
 </div>
 
 ---
