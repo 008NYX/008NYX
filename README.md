@@ -3,7 +3,7 @@
   <img src="./banner.jpg" width="100%" /> <!-- Substitua pelo link de uma imagem pixel art da sua escolha -->
 </div>
 
-# Hi 👋, Imma [Seu Nome]
+# Olá 👋, prazer NYX
 
 <div align="center">
   <i>Full-Stack Developer</i>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🤝 Connect
+### 🤝 Contatos
 
 <div align="center">
   <a href="https://github.com/008NYX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -28,7 +28,7 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Habilidades
 
 <div align="center">
   <!-- Ícones de tecnologias (você pode usar o skillicons ou shields.io) -->
@@ -37,8 +37,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=008NYX&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
