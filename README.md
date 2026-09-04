@@ -34,13 +34,7 @@
 
 <div align="center">
   <!-- Ícones de tecnologias (você pode usar o skillicons ou shields.io) -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,csharp,html,css,linux,git,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,linux,git,docker,mysql" />
 </div>
 
 ---
-
-### 📊 GitHub Status
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=008NYX&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
